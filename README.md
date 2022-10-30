@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-- 🔭 Frontend Engineer...
-- 💬 Ask me about JavaScript & React ...
+- 🔭 Awesome Frontend Engineer
+- 💬 Ask me about JavaScript & React
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/7ossam__Ali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hossamali1993) 
